@@ -1,0 +1,28 @@
+﻿  game.cpp
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(200): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(201): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(205): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(206): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(296): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(380): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(419): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(426): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(427): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(433): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(434): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(442): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(443): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(449): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(450): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\51565\onedrive\documents\visual studio 2017\projects\asteroids\asteroids\game.cpp(468): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Asteroids.vcxproj -> C:\Users\51565\OneDrive\Documents\Visual Studio 2017\Projects\Asteroids\Debug\Asteroids.exe
